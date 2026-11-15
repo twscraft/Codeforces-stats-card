@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-HANDLE = "IMRAX"
+HANDLE = "twscraft"
 
 
 def fetch_user_info(handle):
